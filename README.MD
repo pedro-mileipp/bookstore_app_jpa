@@ -18,4 +18,10 @@
 - Escolha o Maven como Project, linguagem Java e a versão 21.
 - A imagem abaixo ilustra como deve ser feita a configuração:
 
-<img src="./images/initializr.png" width=80% alt="Dependências no Spring Initializr">
+<img src="./images/initializr.png" width=70% alt="Dependências no Spring Initializr">
+
+<br>
+
+# Diagrama UML de Classes
+
+<img src="./images/Bookstore_App_Diagram.png">
